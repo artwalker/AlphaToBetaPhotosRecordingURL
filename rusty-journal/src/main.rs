@@ -29,5 +29,6 @@ fn main() -> anyhow::Result<()> {
         List => tasks::list_tasks(journal_file),
         Done { position } => tasks::complete_task(journal_file, position),
     }?;
+    
     Ok(())
 }

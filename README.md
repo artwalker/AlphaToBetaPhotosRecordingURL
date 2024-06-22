@@ -1,8 +1,9 @@
 # AlphaToBetaPhotosRecordingURL
 
 ## The Video URL
-[Microsoft Stream: Build Your First Command Line To Do App with Rust - Microsoft Student Ambassadors Alpha to Beta](https://stdntpartners.sharepoint.com/:v:/s/MSPOpen2/EYdCGNhlUqxHtYsgHUWThPQBR-kuj5H9McB3ByOnVG3otg?e=8FXsos&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
-[Youtube URL](https://www.youtube.com/watch?v=jDHHkzcnFks)
+[Microsoft Stream: Build Your First Command Line To Do App with Rust - Microsoft Student Ambassadors Alpha to Beta](https://stdntpartners.sharepoint.com/:v:/s/MSPOpen2/EYdCGNhlUqxHtYsgHUWThPQBR-kuj5H9McB3ByOnVG3otg?e=8FXsos&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+[Youtube Vedio URL](https://www.youtube.com/watch?v=jDHHkzcnFks)
 ## Repository Introduction
 
 Welcome to the repository documenting my journey as a Microsoft Student Ambassador, from Alpha to Beta stage! This repository contains records of the events I hosted, learning materials, and various activities undertaken during this journey.

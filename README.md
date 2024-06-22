@@ -29,7 +29,7 @@ Welcome to the repository documenting my journey as a Microsoft Student Ambassad
 
 ### Official Learning Resources
 
-In this repository, you can find links to relevant learning materials and resources for the activities. For example, you can learn the basics of the Rust programming language through this link: [Rust First Steps](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/).
+In Microsoft Learn Website, you can find links to relevant learning materials and resources for the activities. For example, you can learn the basics of the Rust programming language through this link: [Rust First Steps](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/).
 
 ### How TO USE
 
